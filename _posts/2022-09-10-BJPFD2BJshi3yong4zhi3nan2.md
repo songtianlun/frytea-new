@@ -13,13 +13,6 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-| BJ-PFD2 文档清单 |
-| :--: |
-| [BJ-PFD2 - 入口](https://bjpfd2.frytea.com/) |
-| [BJ-PFD2 - 快速开始](/technology/bj-pfd2/overview/) |
-| [BJ-PFD2 - BJ 使用方法](/technology/bj-pfd2/bj-tutor/) |
-| [BJ-PFD2 - PFD 使用方法](/technology/bj-pfd2/pfd-tutor/) |
-
 > 模版链接：https://frytea-share.notion.site/Bullet-Journal-V1-0-1-c3ec01960fd04c4aa3def130722a21d0
 
 模版灵感来源于比较喜欢的一些博主推荐的 Bullet Journal 模版，发现这真是一个日常复盘、记账的好方法，于是就有了这套模版，具体的使用方法请点开各个目录查看。
@@ -154,7 +147,7 @@ cover:
 
 > 比如「基础知识巩固」这个目标，就可以分解为 阅读 《组成原理》等子任务。
 
-到这一步，任务应该都是一个个很具有实践性的任务了，可以安排一个大致的时间去完成它。
+到这一步，任务应该都是一个个很具有实践性的任务了，可以安排一个大致的时间去完成它。
 
 对于之前长期目标的分解，可以在这里直接链接过去，在 「项目划」字段中选择对应的目标即可。
 
@@ -176,7 +169,7 @@ Task 数据库也可做一个简单的 GTD 使用。
 
 ## 快速日记
 
-仔细想想， Bullet Journal 也可以翻译为快速日记。
+仔细想想， Bullet Journal 也可以翻译为快速日记。
 
 !(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.53.4108394669747b667d.png)
 

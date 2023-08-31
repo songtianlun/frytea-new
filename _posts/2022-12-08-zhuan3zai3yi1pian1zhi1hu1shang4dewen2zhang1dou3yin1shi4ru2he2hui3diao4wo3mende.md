@@ -147,6 +147,6 @@ date: "2022-12-08 18:36:00"
 ## 来源
 
 - [转载一篇知乎上的文章：抖音是如何毁掉我们的？（深度好文） - Musk·C·Ace - learnku](https://learnku.com/articles/71955)
-- [林豆豆 - 知乎](zhuanlan.zhihu.com/p/57131724)
+- [林豆豆 - 知乎](https://zhuanlan.zhihu.com/p/57131724)
 
 > 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处

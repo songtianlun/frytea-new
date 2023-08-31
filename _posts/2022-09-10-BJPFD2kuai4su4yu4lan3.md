@@ -13,13 +13,6 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-| BJ-PFD2 文档清单 |
-| :--: |
-| [BJ-PFD2 - 入口](https://bjpfd2.frytea.com/) |
-| [BJ-PFD2 - 快速开始](/technology/bj-pfd2/overview/) |
-| [BJ-PFD2 - BJ 使用方法](/technology/bj-pfd2/bj-tutor/) |
-| [BJ-PFD2 - PFD 使用方法](/technology/bj-pfd2/pfd-tutor/) |
-
 在本页面，您可以快速的看到 BJ-PFD 项目的效果展示。
 
 ## 演示账户

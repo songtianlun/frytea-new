@@ -20,12 +20,4 @@ Bullet Journal Personal Finance Dashboard (BJ-PFD) ，一个 Notion 子弹笔记
 | 专为个人财物管理需求量身定制，没有多余复杂的功能， 让您的财务状况、财产积累状况、消费状况一目了然。 | 界面简单清爽，响应式设，数据密度刚刚好， 让您保持心情愉悦。 | 只有您能看到的个人密钥加密暂存云端，保证安全的同时免除复杂配置的烦恼， 数据全部存储在您个人的 `Notion` 数据库中，随时导出。 |
 
 
-以下是文档清单
 
-| BJ-PFD 文档清单 |
-| :--: |
-| [BJ-PFD - 简介](/technology/bj-pfd/intro/) |
-| [BJ-PFD - 快速预览](/technology/bj-pfd/overview/) |
-| [BJ-PFD - 快速使用](/technology/bj-pfd/quick-start/) |
-| [BJ-PFD - BJ 使用方法](/technology/bj-pfd/bj-tutor/) |
-| [BJ-PFD - PFD 使用方法](/technology/bj-pfd/pfd-tutor/) |

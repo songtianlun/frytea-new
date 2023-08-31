@@ -13,19 +13,13 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-| BJ-PFD 文档清单 |
-| :--: |
-| [BJ-PFD - 简介](/technology/bj-pfd/intro/) |
-| [BJ-PFD - 快速预览](/technology/bj-pfd/overview/) |
-| [BJ-PFD - 快速使用](/technology/bj-pfd/quick-start/) |
-| [BJ-PFD - BJ 使用方法](/technology/bj-pfd/bj-tutor/) |
-| [BJ-PFD - PFD 使用方法](/technology/bj-pfd/pfd-tutor/) |
-
-Bullet Journal Personal Finance Dashboard (BJ-PFD) ，一个 Notion 子弹笔记辅助看板，**由一套 [Bullet journal 模版](/docs/tutoral-bj/intro)（`BJ`）和基于此模版的 [个人财务看板](/technology/bj-pfd/pfd-tutor/)（`Personal Finance Dashboard`）构成**，提供全方位 Bullet Journal 功能支持的基础上，具备图表可视化支持。
+Bullet Journal Personal Finance Dashboard (BJ-PFD) ，一个 Notion 子弹笔记辅助看板，**由一套 Bullet journal 模版（`BJ`）和基于此模版的 个人财务看板（`Personal Finance Dashboard`）构成**，提供全方位 Bullet Journal 功能支持的基础上，具备图表可视化支持。
 
 !(https://imagehost-cdn.frytea.com/images/2021/09/18/2021-09-18-11.12.1673bab25f17fc31ce.png)
 
-至于这个项目能干什么，有什么效果，请查看 [「快速预览」](/docs/overview)，如果想知道如何使用，请查看 [「开始使用」](/technology/bj-pfd/quick-start/) 。如果您想了解这个项目的前世今生，请继续阅读。
+至于这个项目能干什么，有什么效果，请查看 「快速预览」，如果想知道如何使用，请查看 「开始使用」 。
+
+如果您想了解这个项目的前世今生，请继续阅读。
 
 
 ## Why && What
@@ -63,7 +57,7 @@ Bullet Journal Personal Finance Dashboard (BJ-PFD) ，一个 Notion 子弹笔记
 !(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-2.24.399c39f6daa81ab1e9.png)
 
 
-> 关于该项目中 Bullet Journal 模版部分的说明，请继续查看 [「Bullet journal 使用指南」](/docs/tutoral-bj/intro)。
+> 关于该项目中 Bullet Journal 模版部分的说明，请继续查看 「Bullet journal 使用指南」。
 
 ## PFD - Personal Finance Dashboard
 
@@ -71,8 +65,8 @@ Bullet Journal Personal Finance Dashboard (BJ-PFD) ，一个 Notion 子弹笔记
 
 !(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-4.59.52f65e9578b5437c07.png)
 
-> 关于该项目中 Personal Finance Dasnboard 部分的使用说明，请继续查看 [「PFD 使用指南」](/technology/bj-pfd/pfd-tutor/)。
+> 关于该项目中 Personal Finance Dasnboard 部分的使用说明，请继续查看 「PFD 使用指南」。
 
 以上就是该项目的发展历程了，开放出来的意图是希望更多的人能够用起来，将 Bullet Journal 这样也许可以改变人生的理念送入每个人的生活之中。
 
-想要看更多关于该项目的预览效果，请跳转到 [「快速预览」](/technology/bj-pfd/overview/) 。
+想要看更多关于该项目的预览效果，请跳转到 「快速预览」 。

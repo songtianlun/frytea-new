@@ -55,9 +55,9 @@ dos2unix: converting file learn-emacs-lisp-zh.el to Unix format...
 
 可以看到，转换前该文件使用的是 Windows 风格的换行符，转换后该文件使用 Unix 风格换行符。
 
-> Unix 系统中：每行结尾只有 "<换行>"，即 `\n`；
-> Windows 系统中：每行结尾是 "<回车><换行>"，即 `\r\n`；
-> Mac 系统中：每行结尾是 "<回车>"，即 `\r`"。
+> Unix 系统中：每行结尾只有 `\n`；
+> Windows 系统中：每行结尾是 `\r\n`；
+> Mac 系统中：每行结尾是 `\r`"。
 
 ## 参考文献
 

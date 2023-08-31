@@ -15,8 +15,8 @@ draft: false
 
 因此打出这么一个系列，目前更新两章，分别是：
 
-- [kubernetes 核心概念](/technology/k8s/kubernetes-core-concept/)
-- [Kubernetes Pod 配置文件(完整注释)](/technology/k8s/kubernetes-all-yaml/)
+- kubernetes 核心概念
+- Kubernetes Pod 配置文件(完整注释)
 
 第一篇汇集了 kubernetes 中最重要的概念，第二篇则以中文形式汇集了尽可能全面的配置文件配置项。
 
