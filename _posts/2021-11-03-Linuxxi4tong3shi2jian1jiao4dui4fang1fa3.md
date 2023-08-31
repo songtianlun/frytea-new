@@ -3,7 +3,7 @@ title: "Linux 系统时间校对方法"
 date: "2021-11-03T14:44:16+08:00"
 description: 使用 ntp 校对 Linux 系统时间的方法.
 categories: ["计算机技术", "Linux" ]
-tags: [ "Linux", "ntp" ]
+tags: [ "linux", "ntp" ]
 draft: false
 ---
 

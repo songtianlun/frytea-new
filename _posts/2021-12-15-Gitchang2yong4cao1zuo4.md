@@ -3,7 +3,7 @@ title: "Git 常用操作"
 date: "2021-12-15T15:21:48+08:00"
 description: 记录常用 git 操作命令，方便速查.
 categories: ["计算机技术", "Git" ]
-tags: [ "Linux", "Git" ]
+tags: [ "linux", "git" ]
 draft: false
 ---
 

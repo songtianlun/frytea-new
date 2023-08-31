@@ -1,6 +1,6 @@
 ---
 title: "【影评】名侦探柯南·零的执行人"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "101"

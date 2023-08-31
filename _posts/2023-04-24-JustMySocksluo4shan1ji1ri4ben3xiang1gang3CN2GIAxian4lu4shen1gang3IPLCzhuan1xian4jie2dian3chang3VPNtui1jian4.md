@@ -19,7 +19,7 @@ categories:
   - "云主机"
   - "推广"
 tags:
-  - VPN
+  - vpn
 
 ---
 ## <a href=https://justmysocks5.net/members/aff.php?aff=25957 target=_blank  rel=nofollow>Just My Socks</a> 简介 {#pk-menu-0}

@@ -3,7 +3,7 @@ title: "Vim 一键编译运行 C/C++"
 date: "2021-11-03T14:30:19+08:00"
 description: 一种按键映射自动编译运行 C/C++ 的方法
 categories: ["计算机技术", "Vim 技巧"]
-tags: [ "Linux", "vim" ]
+tags: [ "linux", "vim" ]
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "《海王》电影观后小感"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "112"

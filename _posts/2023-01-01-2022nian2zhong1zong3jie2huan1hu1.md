@@ -1,6 +1,6 @@
 ---
 title: "2022 年终总结 —— 欢呼"
-categories: [ "Life", "报告 "]
+categories: [ "Life", "报告"]
 tags: [  ]
 draft: false
 date: "2023-01-01T22:54:25+08:00"

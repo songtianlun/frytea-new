@@ -1,6 +1,6 @@
 ---
 title: "时代终将遗忘无输出的人 ｜ 写作是最好的自我投资 ｜ 阅后记"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "436"

@@ -1,6 +1,6 @@
 ---
 title: "2021 上半年博客「经营」报告"
-categories: [ "Life", "报告 "]
+categories: [ "Life", "报告"]
 tags: [  ]
 draft: false
 slug: "549"

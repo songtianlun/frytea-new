@@ -3,7 +3,7 @@ title: "Perl 编译安装 （Linux）"
 date: "2021-11-05T01:20:18Z"
 description: Centos 下演示编译安装 Perl 环境的方法.
 categories: ["计算机技术", "Linux" ]
-tags: [ "Linux", "Perl" ]
+tags: [ "linux", "Perl" ]
 draft: false
 ---
 

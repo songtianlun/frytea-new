@@ -1,6 +1,6 @@
 ---
 title: "《哈利·波特与魔法石》观影记录 ｜ 感动 ｜ 魔法永恒"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "431"

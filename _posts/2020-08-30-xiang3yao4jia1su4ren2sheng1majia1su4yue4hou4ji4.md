@@ -1,6 +1,6 @@
 ---
 title: "想要加速人生吗 ｜ 加速 ｜ 阅后记"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "445"

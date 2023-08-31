@@ -1,6 +1,6 @@
 ---
 title: "高能效人士的七个习惯"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "744"

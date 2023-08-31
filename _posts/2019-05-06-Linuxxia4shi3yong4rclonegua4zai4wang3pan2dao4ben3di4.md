@@ -1,7 +1,7 @@
 ---
 title: "Linux下使用rclone挂载网盘到本地"
 categories: [ "计算机技术", "通用技术"  ]
-tags: [ "vps","rclone","onedrive" ]
+tags: [ "VPS","rclone","onedrive" ]
 draft: false
 slug: "31"
 date: "2019-05-06 23:58:00"

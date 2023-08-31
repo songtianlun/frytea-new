@@ -1,6 +1,6 @@
 ---
 title: "{note} Harry Potter"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: true
 slug: "118"

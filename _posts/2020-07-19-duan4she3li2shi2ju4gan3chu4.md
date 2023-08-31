@@ -1,6 +1,6 @@
 ---
 title: "《断舍离》十句感触"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "408"

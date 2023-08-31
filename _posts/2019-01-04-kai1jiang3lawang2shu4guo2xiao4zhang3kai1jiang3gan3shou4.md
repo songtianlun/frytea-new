@@ -1,6 +1,6 @@
 ---
 title: "《开讲啦》王树国校长开讲感受"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "111"

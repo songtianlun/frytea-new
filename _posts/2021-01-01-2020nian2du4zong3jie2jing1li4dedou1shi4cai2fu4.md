@@ -1,6 +1,6 @@
 ---
 title: "2020年度总结 —— 经历的都是财富"
-categories: [ "Life", "报告 "]
+categories: [ "Life", "报告"]
 tags: [  ]
 draft: false
 date: "2021-01-01T22:54:25+08:00"

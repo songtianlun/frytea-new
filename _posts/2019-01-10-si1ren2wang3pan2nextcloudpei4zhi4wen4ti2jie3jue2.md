@@ -1,7 +1,7 @@
 ---
 title: "私人网盘nextcloud配置问题解决"
 categories: [ "计算机技术", "通用技术"  ]
-tags: [ "vps","nextcloud" ]
+tags: [ "VPS","nextcloud" ]
 draft: false
 slug: "32"
 date: "2019-01-10 11:29:00"

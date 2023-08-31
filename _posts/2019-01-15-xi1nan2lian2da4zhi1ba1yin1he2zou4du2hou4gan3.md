@@ -1,6 +1,6 @@
 ---
 title: "《西南联大》之八音合奏读后感"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "108"

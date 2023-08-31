@@ -1,6 +1,6 @@
 ---
 title: "夺冠的感觉？ ｜ 精神传承 ｜ 自我到为人"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "458"

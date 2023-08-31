@@ -1,6 +1,6 @@
 ---
 title: "拨云见日站在新的《起跑线》，让人放松的喜剧片"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "672"

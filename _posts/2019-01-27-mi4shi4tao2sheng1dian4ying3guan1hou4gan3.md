@@ -1,6 +1,6 @@
 ---
 title: "《密室逃生》电影观后感"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "110"

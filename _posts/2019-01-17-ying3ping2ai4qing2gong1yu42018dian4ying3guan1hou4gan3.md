@@ -1,6 +1,6 @@
 ---
 title: "【影评】爱情公寓2018电影观后感"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "102"

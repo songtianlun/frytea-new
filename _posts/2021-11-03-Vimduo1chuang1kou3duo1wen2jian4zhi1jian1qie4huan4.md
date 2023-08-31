@@ -3,7 +3,7 @@ title: "Vim 多窗口、多文件之间切换"
 date: "2021-11-03T14:24:33+08:00"
 description: 介绍 vim 多窗口以及多文件之间的切换方法
 categories: ["计算机技术", "Vim 技巧"]
-tags: [ "Linux", "vim" ]
+tags: [ "linux", "vim" ]
 draft: false
 ---
 

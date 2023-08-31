@@ -1,6 +1,6 @@
 ---
 title: "「送你一朵小红花」"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "519"

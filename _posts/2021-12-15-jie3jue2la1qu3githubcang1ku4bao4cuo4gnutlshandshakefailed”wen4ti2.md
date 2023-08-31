@@ -3,7 +3,7 @@ title: "解决拉取 github 仓库报错 “gnutls_handshake () failed” 问题
 date: "2021-12-15T15:25:55+08:00"
 description: 由于代理导致 github 无法正常拉取的解决办法.
 categories: [计算机技术, Git 笔记集]
-tags: [ "Linux", "Git" ]
+tags: [ "Linux", "git" ]
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "小狗钱钱 ｜ 伪装成童话的入门理财书籍"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "503"

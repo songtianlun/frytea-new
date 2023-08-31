@@ -1,6 +1,6 @@
 ---
 title: "2022 年博客经营报告"
-categories: [ "Life", "报告 "]
+categories: [ "Life", "报告"]
 tags: [  ]
 draft: false
 slug: "717"

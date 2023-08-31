@@ -3,7 +3,7 @@ title: "vim 代码折叠之设置默认代码不折叠"
 date: "2021-11-03T14:22:02+08:00"
 description: 简单介绍 vim 代码折叠及配置
 categories: ["计算机技术", "Vim 技巧"]
-tags: [ "Linux", "vim" ]
+tags: [ "linux", "vim" ]
 draft: false
 ---
 

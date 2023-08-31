@@ -1,6 +1,6 @@
 ---
 title: "【书评】白鹿原"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "106"

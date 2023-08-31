@@ -3,7 +3,7 @@ title: "Bash快捷指令"
 date: "2021-11-03T14:39:21+08:00"
 description: 常用指令速查.
 categories: ["计算机技术", "Linux" ]
-tags: [ "Linux" ]
+tags: [ "linux" ]
 draft: false
 ---
 

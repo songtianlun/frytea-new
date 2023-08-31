@@ -1,6 +1,6 @@
 ---
 title: "《4点起床：最养生和高效的时间管理》摘录总结 ｜ 十句阅读"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "432"

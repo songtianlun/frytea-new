@@ -1,6 +1,6 @@
 ---
 title: "苹果的转与未来 ｜ 蒂姆·库克传阅后记"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "444"

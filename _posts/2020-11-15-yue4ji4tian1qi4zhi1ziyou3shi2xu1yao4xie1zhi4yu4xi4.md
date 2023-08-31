@@ -1,6 +1,6 @@
 ---
 title: "【阅记】天气之子 ｜ 有时需要些治愈系"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "483"

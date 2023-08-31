@@ -3,7 +3,7 @@ title: "Ubuntu 20.04 修改网卡配置"
 date: "2021-11-05T00:32:22Z"
 description: Ubuntu 新版网络配置方法.
 categories: ["计算机技术", "Linux" ]
-tags: [Linux, Ubuntu, network]
+tags: [linux, Ubuntu, network]
 draft: false
 ---
 

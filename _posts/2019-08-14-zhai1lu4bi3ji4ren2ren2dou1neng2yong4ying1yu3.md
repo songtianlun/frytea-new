@@ -1,6 +1,6 @@
 ---
 title: "【摘录笔记】人人都能用英语"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "156"

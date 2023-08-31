@@ -3,7 +3,7 @@ title: "使用 Cloud Studio 撰写、预览 Hugo 的配置方法"
 date: "2021-12-02T14:32:08+08:00"
 description: 使用 Cloud Studio 在云端编辑、预览、发布博客。
 categories: [ "计算机技术" ,"通用技术" ]
-tags: [ "Linux", "hugo" ]
+tags: [ "linux", "hugo" ]
 draft: false
 cover:
     image: https://imagehost-cdn.frytea.com/images/2021/12/02/362ca4420ffef37745f70d8672f57ed76125f422f1fbb82d.png # image path/url

@@ -1,6 +1,6 @@
 ---
 title: "【阅记】斯坦福高效睡眠法 ｜ 高效睡眠 ｜ 高效人生"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "476"

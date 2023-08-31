@@ -1,6 +1,6 @@
 ---
 title: "《让你的时间更有价值》十句感悟"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "425"

@@ -1,6 +1,6 @@
 ---
 title: "人到绝境是重生 ｜ 创业就是解决问题 ｜ 刘强东（传）阅后记"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "441"

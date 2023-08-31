@@ -3,7 +3,7 @@ title: "Vim 版本升级（Vim8）"
 date: "2021-11-03T14:17:50+08:00"
 description: 源码编译安装新版 vim 的方法
 categories: ["计算机技术", "Vim 技巧"]
-tags: [ "Linux", "vim" ]
+tags: [ "linux", "vim" ]
 draft: false
 ---
 

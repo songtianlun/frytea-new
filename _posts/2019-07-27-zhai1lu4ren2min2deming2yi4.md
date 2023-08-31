@@ -1,6 +1,6 @@
 ---
 title: "[摘录]《人民的名义》"
-categories: [ "阅读", "阅读笔记 "]
+categories: [ "阅读", "阅读笔记"]
 tags: [  ]
 draft: false
 slug: "143"

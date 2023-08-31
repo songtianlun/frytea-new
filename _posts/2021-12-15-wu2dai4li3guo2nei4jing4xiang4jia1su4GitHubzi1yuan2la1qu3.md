@@ -3,7 +3,7 @@ title: "无代理国内镜像加速 GitHub 资源拉取"
 date: "2021-12-15T15:32:54+08:00"
 description: 一种非代理加速拉取 github 资源的方法.
 categories: ["计算机技术", "Git" ]
-tags: [ "Linux", "Git" ]
+tags: [ "linux", "git" ]
 draft: false
 ---
 

@@ -14,7 +14,7 @@ categories:
 tags:
   - ChatGLM
   - Linux
-  - MacOS
+  - macOS
 
 ---
 !(https://imagehost-cdn.frytea.com/images/2023/04/15/20230415180448a2c49a7697be35ba.png)
