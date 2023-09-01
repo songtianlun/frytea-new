@@ -24,7 +24,7 @@ tags:
 
 用开发者版本的谷歌打开这个页面即可体验：<a href=https://mlc.ai/web-llm/#chat-demo target=_blank  rel=nofollow>https://mlc.ai/web-llm/#chat-demo</a>
 
-!(https://imagehost-cdn.frytea.com/images/2023/04/20/20230420091040d5eaae38349d4f33.png)
+![](https://imagehost-cdn.frytea.com/images/2023/04/20/20230420091040d5eaae38349d4f33.png)
 
 运行速度很慢，毕竟是运行在浏览器中的，有一种树懒的即视感。
 
@@ -36,13 +36,13 @@ tags:
 
 打开速度非常的慢。
 
-!(https://imagehost-cdn.frytea.com/images/2023/04/20/20230420214740956375e9a3012e8b.png)
+![](https://imagehost-cdn.frytea.com/images/2023/04/20/20230420214740956375e9a3012e8b.png)
 
 因为是运行在浏览器中的，对速度不能期待太多。
 
 耗时数分钟，终于成功：
 
-!(https://imagehost-cdn.frytea.com/images/2023/04/20/20230420215519e9a07832414a869c.png)
+![](https://imagehost-cdn.frytea.com/images/2023/04/20/20230420215519e9a07832414a869c.png)
 
 ## References {#pk-menu-2}
 

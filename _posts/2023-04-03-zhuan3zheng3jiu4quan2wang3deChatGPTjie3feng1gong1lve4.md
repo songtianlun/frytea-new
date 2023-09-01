@@ -17,7 +17,7 @@ tags:
 ---
 以下内容转载自：<a href=https://www.craft.do/s/uUF5C0iAfg07Kd target=_blank  rel=nofollow>拯救全网的 Chatgpt 解封攻略</a>，有需要的朋友可以试试，侵删。
 
-!(https://imagehost-cdn.frytea.com/images/2023/04/03/2023040323314622552b925ecd5222.png)
+![](https://imagehost-cdn.frytea.com/images/2023/04/03/2023040323314622552b925ecd5222.png)
 
 ## 第一步：邮件说明情况 {#pk-menu-0}
 
@@ -67,7 +67,7 @@ Best regards.
 
 一般回复都是 IP 在亚洲区域登陆，因此被封号，这时候要及时回复官方邮件
 
-!(https://imagehost-cdn.frytea.com/images/2023/04/03/20230403232816a527cdb5659f3468.png)
+![](https://imagehost-cdn.frytea.com/images/2023/04/03/20230403232816a527cdb5659f3468.png)
 
 例如活动轨迹在香港之类的，我们就开始第三步
 

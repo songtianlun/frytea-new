@@ -20,7 +20,7 @@ categories:
 
 最近我尝试了国内实体卡、香港虚拟卡、美国虚拟卡等不下于 10 张信用卡，最后绑定 OpenAI 账户成功，据有 ChatGPT Plus 资格的网友反馈绑定 ChatGPT Plus 也没问题。
 
-!(https://imagehost-cdn.frytea.com/images/2023/03/25/202303252308371a71f7d5593072a6.png)
+![](https://imagehost-cdn.frytea.com/images/2023/03/25/202303252308371a71f7d5593072a6.png)
 
 根据我的尝试我大致总结了下：
 

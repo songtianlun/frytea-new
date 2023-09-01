@@ -11,7 +11,7 @@ date: "2021-03-09 23:50:14"
 
 类似的生命题材电影，还有《滚蛋吧！肿瘤君》、《我不是药神》，在国内影片市场并不多见。但在物质生活逐渐发达的今天，人们更加需要感悟到生命的可贵。一个不生病的人很难感同身受生病的痛苦，也只有真实的走过这一生坎坷才能体会到“活着不容易”。
 
-!(https://imagehost-cdn.frytea.com/images/2021/03/09/20210309234925be6070bcd42a71ff.png)!(https://imagehost-cdn.frytea.com/images/2021/03/09/20210309234925be6070bcd42a71ff.png)
+![](https://imagehost-cdn.frytea.com/images/2021/03/09/20210309234925be6070bcd42a71ff.png)!(https://imagehost-cdn.frytea.com/images/2021/03/09/20210309234925be6070bcd42a71ff.png)
 
 ## 人生命题
 

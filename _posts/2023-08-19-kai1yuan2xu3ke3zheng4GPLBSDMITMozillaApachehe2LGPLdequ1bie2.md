@@ -15,7 +15,7 @@ revision: '2'
 
 借阮一峰大佬的图说明一下开源许可证GPL、BSD、MIT、Mozilla、Apache和LGPL的区别，方便日后使用。
 
-!(https://imagehost-cdn.frytea.com/images/2023/08/15/xm5m1g-2.png)
+![](https://imagehost-cdn.frytea.com/images/2023/08/15/xm5m1g-2.png)
 
 ---
 

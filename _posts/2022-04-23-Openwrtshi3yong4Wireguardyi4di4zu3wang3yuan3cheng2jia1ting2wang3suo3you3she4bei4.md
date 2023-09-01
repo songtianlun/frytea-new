@@ -65,15 +65,15 @@ AllowedIPs = 10.66.66.0/24, 192.168.2.0/24
 
 首先添加一个协议类行为 `WireGuard VPN` 类型的接口，在基本配置中填入配置文件对应的内容：
 
-!(https://imagehost-cdn.frytea.com/images/2022/04/23/2022042323286445cedce6a3a32d8e1.png)
+![](https://imagehost-cdn.frytea.com/images/2022/04/23/2022042323286445cedce6a3a32d8e1.png)
 
 之后添加 peer ，继续填写配置文件的内容：
 
-!(https://imagehost-cdn.frytea.com/images/2022/04/23/2022042323301322ee7c129afdf6e78.png)
+![](https://imagehost-cdn.frytea.com/images/2022/04/23/2022042323301322ee7c129afdf6e78.png)
 
 填写完毕后保存，下面配置防火墙，选择 `lan` 区域即可：
 
-!(https://imagehost-cdn.frytea.com/images/2022/04/23/20220423233167180d22f8db3fe1122.png)
+![](https://imagehost-cdn.frytea.com/images/2022/04/23/20220423233167180d22f8db3fe1122.png)
 
 这里也是我出现问题的地方。防火墙这里配置错误，可能导致远程访问不到我们的 OpenWrt 网络，或者是访问不到 OpenWrt 网络内的其他主。
 

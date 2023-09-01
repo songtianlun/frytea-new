@@ -19,7 +19,7 @@ date: "2022-12-11 22:25:30"
 
 很喜欢简书的这个小插件，有无日更一目了然：
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/11/7A0A607E-4FB8-4DBB-BCE8-31C3E7AACB5D10fe50d6eb13d18f.jpg)
+![](https://imagehost-cdn.frytea.com/images/2022/12/11/7A0A607E-4FB8-4DBB-BCE8-31C3E7AACB5D10fe50d6eb13d18f.jpg)
 
 我将这个小组件放在了第一屏，这也给我很大的启发。
 

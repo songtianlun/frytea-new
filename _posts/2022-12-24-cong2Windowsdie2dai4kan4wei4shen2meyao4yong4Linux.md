@@ -11,4 +11,4 @@ Windows 的待问题、兼容问题，已经总是被人诟病的“监控”问
 
 至于 Windows 的问题，下面这张图个人认为总结的很好。
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/24/IMG_5099ee24b7b5c047f93f.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/24/IMG_5099ee24b7b5c047f93f.png)

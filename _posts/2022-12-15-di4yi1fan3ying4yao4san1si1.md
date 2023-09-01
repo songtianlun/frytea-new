@@ -7,7 +7,7 @@ slug: "690"
 date: "2022-12-15 09:01:00"
 ---
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/15/2022121519179295633a145ae840417.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/15/2022121519179295633a145ae840417.png)
 
 人的第一反应或许常常是处于本能的，
 

@@ -30,7 +30,7 @@ cover:
 
 填写名称，选择正确的工作空间，具体如图，点击 Submit 即可。
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/23/2022092300563037434d2865b7e5ec1.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/23/2022092300563037434d2865b7e5ec1.png)
 
 之后在这里将生成的 Token 拷出来，如果为隐藏状态，点击一下 Show。
 
@@ -40,7 +40,7 @@ cover:
 
 都这里还没完，该 integration 还没有权限访问您的 Bullet Journal，还需要给它一个权限。
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/23/2022092300533740dd320ef4b4ea6fd.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/23/2022092300533740dd320ef4b4ea6fd.png)
 
 回到您的 Bullet Journal 页面，点击右上角 ，选择 Add connections ，选中您刚刚创建的 integration 确认即可。
 
@@ -54,13 +54,13 @@ cover:
 
 打开工具链接：https://bjpfd2.frytea.com/login
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/23/2022092300404362fd3fb2d0273d2d2.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/23/2022092300404362fd3fb2d0273d2d2.png)
 
 输入您在第一步获取的 notion token 即可。
 
 > Bj-PFD2 会根据 DB 名称自动获取对应数据库，因此**切勿修改 DB 名称**。
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/23/202209230050967482992a97998816a.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/23/202209230050967482992a97998816a.png)
 
 至此，使用方法介绍完毕。
 

@@ -21,13 +21,13 @@ cover:
 
 在 Bullet Journal 的财务管理模块，您可以进行预、预监控、收支管理、投资管理以及财务分配等。
 
-!(https://imagehost-cdn.frytea.com/images/2021/05/20/2021-05-20-9.42.52fb1c56342c2886fe.png)
+![](https://imagehost-cdn.frytea.com/images/2021/05/20/2021-05-20-9.42.52fb1c56342c2886fe.png)
 
 ## 预管理
 
 在 Bullet Journal 模版中，每个月都有一个主页，汇总了当月的目标、复盘、财务等内容，其中就包括本月的 **预**。
 
-!(https://imagehost-cdn.frytea.com/images/2021/05/20/2021-05-20-9.52.11dfd06033a9111cda.png)
+![](https://imagehost-cdn.frytea.com/images/2021/05/20/2021-05-20-9.52.11dfd06033a9111cda.png)
 
 建议您在月初时进行当月的预，列出您本月可能的各项开支，之后出一个总额，即可进行预监控。监控方法请往下看。
 
@@ -41,7 +41,7 @@ cover:
 - Budget：填入您之前好的本月预总额；
 - 日期：选择当月任意一个日期。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-8.56.534e62cebf8e32cd7f.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-8.56.534e62cebf8e32cd7f.png)
 
 > 以上列出的三个字段请务必按要求填写，后面许多地方都会用到，不可随意更改。
 
@@ -52,7 +52,7 @@ cover:
 
 记账几乎每天都需要用到。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.10.42fcdbb62a443b19f7.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.10.42fcdbb62a443b19f7.png)
 
 在每个月的主页中，都有一个到账本数据库的链接，根据日期筛选出本月的账目，也可以根据自己的需要建立多个视图，方便使用。
 
@@ -65,7 +65,7 @@ cover:
 当您第一次使用时，需要添加一系列的 init 数据条目，以初始化您各个账户中的金额。
 :::
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.15.00d41e258aa6b13600.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.15.00d41e258aa6b13600.png)
 
 **账本**数据库除了与账本联动，还会与**投资账户**联动，用于自动统扣除投资账户后的金额等信息。
 
@@ -73,7 +73,7 @@ cover:
 
 在记录您的投资状况时，首先需要在**投资账户**数据库记录您的各条基金信息，并关联一个账户，今后该基金的买入卖出都会从该账户中扣除。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.15.43285160ae6c3cf0dd.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.15.43285160ae6c3cf0dd.png)
 
 在这里，需要填写基金名称、关联账户，另外记得在卖出时填写一下收益，这样收益会自动记录到您的账户中。
 
@@ -84,7 +84,7 @@ cover:
 
 在登记了相关的投资基金后，就可以在投资账本中进行买入卖出的记录了。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.20.264aa2c91f65b72027.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.20.264aa2c91f65b72027.png)
 
 在买入、卖出操作产生后，在这里记录相关的基金（投资账户）、金额以及时间即可。
 
@@ -95,7 +95,7 @@ cover:
 
 在进行资产配置时，参考了标准普尔家庭资产配置图的4:3:2:1法则。在**资产规划**页面中提供了一个简单的器。
 
-!(https://imagehost-cdn.frytea.com/images/2021/05/20/2021-05-20-10.05.28aa337ee6fbb52d1a.png)
+![](https://imagehost-cdn.frytea.com/images/2021/05/20/2021-05-20-10.05.28aa337ee6fbb52d1a.png)
 
 > 标准普尔家庭资产配置图，即把家庭资产按4：3：2：1分别用于保本升值的钱、省钱的钱、保命的钱、要花的钱
 
@@ -115,7 +115,7 @@ cover:
 > 这里指的长期目标是 1年、3～5年甚至更长时间实现的目标。
 
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.30.2362ae3de0ba6bbb26.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.30.2362ae3de0ba6bbb26.png)
 
 在 Bullet Journal 的首页，左上角就是一个长期目标模块，紫色部分标示出您希望在一个较长时间段中希望达成的目标。
 
@@ -132,7 +132,7 @@ cover:
 
 在这套 Bullet Journal 模版中，将每个短期目标视作一个项目，放入项目管理数据库中进行管理。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.41.087152148d799b16b7.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.41.087152148d799b16b7.png)
 
 这个数据库被链接到了 BJ 首页及月看板的首页，就是希望每天打开这个模版都提醒自己，要实现这些目标，在日常的各种小事情中都向这个目标努力，日积月累自然就能够实现了。
 
@@ -141,7 +141,7 @@ cover:
 
 确立了这些目标后，需要将其精确到每一天或每一点，这就用到任务管理数据库了。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.45.1018d857512f30861a.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.45.1018d857512f30861a.png)
 
 在这个数据库中，可以包含各种临时任务，也可以是对之前划的分解任务。
 
@@ -157,7 +157,7 @@ Task 数据库也可做一个简单的 GTD 使用。
 
 使用方法很简单，将您的 To DO 任务记录在这里，完成后标记已完成即可。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.50.38e618f845cf8521d9.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.50.38e618f845cf8521d9.png)
 
 至此，目标管理方法介绍完毕。
 
@@ -171,7 +171,7 @@ Task 数据库也可做一个简单的 GTD 使用。
 
 仔细想想， Bullet Journal 也可以翻译为快速日记。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.53.4108394669747b667d.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-9.53.4108394669747b667d.png)
 
 在月看板中，有一个很重要的 Journal 部分，其中的**条目名称以今天最重要的一件事命名**。
 

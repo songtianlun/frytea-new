@@ -15,7 +15,7 @@ cover:
 
 Bullet Journal Personal Finance Dashboard (BJ-PFD) ，一个 Notion 子弹笔记辅助看板，**由一套 Bullet journal 模版（`BJ`）和基于此模版的 个人财务看板（`Personal Finance Dashboard`）构成**，提供全方位 Bullet Journal 功能支持的基础上，具备图表可视化支持。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/18/2021-09-18-11.12.1673bab25f17fc31ce.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/18/2021-09-18-11.12.1673bab25f17fc31ce.png)
 
 至于这个项目能干什么，有什么效果，请查看 「快速预览」，如果想知道如何使用，请查看 「开始使用」 。
 
@@ -54,7 +54,7 @@ Bullet Journal Personal Finance Dashboard (BJ-PFD) ，一个 Notion 子弹笔记
 
 尽管在经过不断的时间努力后，我的 Notion BJ 模版实现了很美好的价值，但美中不足的是：数据无法更直观的展现，只是一串数字。
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-2.24.399c39f6daa81ab1e9.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-2.24.399c39f6daa81ab1e9.png)
 
 
 > 关于该项目中 Bullet Journal 模版部分的说明，请继续查看 「Bullet journal 使用指南」。
@@ -63,7 +63,7 @@ Bullet Journal Personal Finance Dashboard (BJ-PFD) ，一个 Notion 子弹笔记
 
 于是就有了 `Personal Finance Dashboard`，**对 Notion BJ 模版中的个人财务管理部分提供数据可视化能力**。它可以将各项财务数据可视化成类似这样的图表：
 
-!(https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-4.59.52f65e9578b5437c07.png)
+![](https://imagehost-cdn.frytea.com/images/2021/09/20/2021-09-20-4.59.52f65e9578b5437c07.png)
 
 > 关于该项目中 Personal Finance Dasnboard 部分的使用说明，请继续查看 「PFD 使用指南」。
 

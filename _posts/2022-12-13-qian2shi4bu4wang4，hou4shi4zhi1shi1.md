@@ -9,7 +9,7 @@ date: "2022-12-13 08:25:00"
 
 前事不忘，后事之师。
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/13/20221213082443845001c290c759a19.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/13/20221213082443845001c290c759a19.png)
 
 今天，是我国第9个
 南京大屠杀死难者国家公祭日
@@ -21,7 +21,7 @@ date: "2022-12-13 08:25:00"
 通过纪念日的形式，每年加强一次，
 所有中国人绝对不能忘记。
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/13/202212130829510e1bfae51ed0af323.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/13/202212130829510e1bfae51ed0af323.png)
 
 还记得那年在南京城，
 侵华日军南京大屠杀遇难同胞纪念馆。
@@ -31,7 +31,7 @@ date: "2022-12-13 08:25:00"
 一件件指向罪恶之人的铁证，
 无一不让我刻骨铭心。
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/13/202212130827101ca115f5b1bfcf001.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/13/202212130827101ca115f5b1bfcf001.png)
 
 作为后人，
 能做的就是不要忘记，

@@ -17,7 +17,7 @@ m1 芯片的 MacBook 在效能方面很强，但终端这一开发者最常用�
 
 软件的安装和定制请自行查找文档，本文介绍解决其不断请求权限的问题。
 
-!(https://imagehost-cdn.frytea.com/images/2022/10/17/2022101721359188e368b4c402ea6ec.png)
+![](https://imagehost-cdn.frytea.com/images/2022/10/17/2022101721359188e368b4c402ea6ec.png)
 
 即使给了全盘权限，使用 Alacritty 时还是会不断弹出该警告，查看 GitHub 问题清单发现有不少人遇到该问题，推测是证书问题，解决方法也很简单：
 

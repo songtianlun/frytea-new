@@ -131,7 +131,7 @@ qemuDomainGetBlockInfo (dom=0x7f4cfc00aeb0, path=0x7f4cfc00cc60 vda, info=0x7f4d
 (gdb) n
 12421       virCheckFlags(0, -1);
 (gdb) n
-12423       if (!(vm = qemuDomObjFromDomain(dom)))
+12423       if (![](vm = qemuDomObjFromDomain(dom)))
 (gdb) n
 12426       cfg = virQEMUDriverGetConfig(driver);
 (gdb) n
@@ -139,7 +139,7 @@ qemuDomainGetBlockInfo (dom=0x7f4cfc00aeb0, path=0x7f4cfc00cc60 vda, info=0x7f4d
 (gdb) n
 12431       if (qemuDomainObjBeginJob(driver, vm, QEMU_JOB_QUERY) < 0)
 (gdb) n
-12434       if (!(disk = virDomainDiskByName(vm->def, path, false))) {
+12434       if (![](disk = virDomainDiskByName(vm->def, path, false))) {
 (gdb) n
 12440       if (virStorageSourceIsEmpty(disk->src)) {
 (gdb) n
@@ -203,7 +203,7 @@ Breakpoint 1, qemuDomainBlocksStatsGather (driver=driver@entry=0x7f4d180f99b0, v
 (gdb) 
 11439       if (*path) {
 (gdb) 
-11440           if (!(disk = virDomainDiskByName(vm->def, path, false))) {
+11440           if (![](disk = virDomainDiskByName(vm->def, path, false))) {
 (gdb) 
 11445           if (blockdev) {
 (gdb) 
@@ -223,7 +223,7 @@ Breakpoint 1, qemuDomainBlocksStatsGather (driver=driver@entry=0x7f4d180f99b0, v
 (gdb) 
 11474       if (entryname) {
 (gdb) 
-11475           if (!(stats = virHashLookup(blockstats, entryname))) {
+11475           if (![](stats = virHashLookup(blockstats, entryname))) {
 (gdb) 
 11481           **retstats = *stats;
 (gdb) p stats
@@ -239,7 +239,7 @@ Continuing.
 分析这一调用过程，发现我们跟踪的 `restats` 变量来自 `stats`，而该值在这一行被填充：
 
 ```bash
-11475           if (!(stats = virHashLookup(blockstats, entryname))) {
+11475           if (![](stats = virHashLookup(blockstats, entryname))) {
 ```
 
 值来自哈希表查询结果，从 `blockstats` 中查询 `entryname` ，而该哈希表在这两行被赋值：
@@ -259,7 +259,7 @@ qemuMonitorJSONQueryBlock(qemuMonitorPtr mon)
     virJSONValuePtr reply = NULL;
     virJSONValuePtr devices = NULL;
 
-    if (!(cmd = qemuMonitorJSONMakeCommand(query-block, NULL)))
+    if (![](cmd = qemuMonitorJSONMakeCommand(query-block, NULL)))
         return NULL;
 
     if (qemuMonitorJSONCommand(mon, cmd, &reply) < 0 ||

@@ -7,7 +7,7 @@ slug: "682"
 date: "2022-12-12 08:41:27"
 ---
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/11/20221211224592189c4fdee01b7a6cb.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/11/20221211224592189c4fdee01b7a6cb.png)
 
 除了吃饭，好要注意补充精神力。
 

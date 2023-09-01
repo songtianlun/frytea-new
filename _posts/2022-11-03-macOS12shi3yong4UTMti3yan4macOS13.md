@@ -48,63 +48,63 @@ IPSW 文件可理解为苹果生态下的 ISO 镜像，其中包含所有系统�
 以下使用图片加注释的形式进行，按照图示一步一步走过来即可，赶时间也可以直接看图片效果：
 
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032155554b74e6e39f8ca0b63.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032155554b74e6e39f8ca0b63.png)
 
 
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032155634ad61a983e58634d2.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032155634ad61a983e58634d2.png)
 
 > 这一步载入 macOS IPSW 文件
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/2022110321569716f96b3b852e5f5f4.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/2022110321569716f96b3b852e5f5f4.png)
 
 > 建议磁盘选择 64GB，32 GB 无法安装 macOS 13
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032152833e31df687dd5dd6e9.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032152833e31df687dd5dd6e9.png)
 
 
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032153167f6b72f43d8da7d99.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032153167f6b72f43d8da7d99.png)
 
 > 等待系统安装
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/2022110321567409c1233129b278634.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/2022110321567409c1233129b278634.png)
 
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/2022110321355902e4aa38089c562eb.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/2022110321355902e4aa38089c562eb.png)
 
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032150037575bb546700a22d1.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032150037575bb546700a22d1.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/2022110322028013502b5bb063cc963.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/2022110322028013502b5bb063cc963.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/20221103222994253a45c1b3884555d.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/20221103222994253a45c1b3884555d.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032229152a8bd5fdfdac871c1.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032229152a8bd5fdfdac871c1.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032230119f630c2209a0bf5f8.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032230119f630c2209a0bf5f8.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032252228c495d23371f11397.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032252228c495d23371f11397.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032254013c1905a329e6a546d.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032254013c1905a329e6a546d.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032255244bc4d3200e065d632.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032255244bc4d3200e065d632.png)
 
 > 登入 macOS 13
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/2022110323024719eb4f7428ac7d5c5.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/2022110323024719eb4f7428ac7d5c5.png)
 
 > 系统信息
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/202211032304735b0ed7bf994734470.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/202211032304735b0ed7bf994734470.png)
 
 > 软件展示
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/2022110323538276839edb1fd163154.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/2022110323538276839edb1fd163154.png)
 
 > 台前调度
 
-!(https://imagehost-cdn.frytea.com/images/2022/11/03/2022110323554039758266c71664c9c.png)
+![](https://imagehost-cdn.frytea.com/images/2022/11/03/2022110323554039758266c71664c9c.png)
 
 
 ## 总结

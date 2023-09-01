@@ -11,7 +11,7 @@ date: "2023-01-01T22:54:25+08:00"
 
 时间过的可真快，2022 马上结束，在这跨年之际，简单回顾一下这一年特别的事。
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/31/202212311754214ce9824b622574ab8.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/31/202212311754214ce9824b622574ab8.png)
 
 前情提要
 ----
@@ -34,7 +34,7 @@ date: "2023-01-01T22:54:25+08:00"
 后面几天，足不出户独自好好养了几天。  
 第七天，终于感觉手脚又充满了力量，虽然咽炎和鼻塞事儿还会袭来，但是一切都好多了。
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/31/2022123117550967c2b85878e1aceec.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/31/2022123117550967c2b85878e1aceec.png)
 
 稍微总结一下感染经历吧
 -----------
@@ -134,5 +134,5 @@ date: "2023-01-01T22:54:25+08:00"
 
 2023，来吧！
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/31/2022123117541069c6edcbb60611711.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/31/2022123117541069c6edcbb60611711.png)
 

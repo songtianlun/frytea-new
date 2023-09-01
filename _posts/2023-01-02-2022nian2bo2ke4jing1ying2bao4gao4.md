@@ -57,13 +57,13 @@ date: "2023-01-02 14:07:45"
 
 对比上一年，我的 blog 流量有所下降，全年共获得了 116,101 次访问。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/20230102133339890858d238fab6858.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/20230102133339890858d238fab6858.png)
 
 当然在最后两个月，流量对比上一年同期有所上升，这大概也是未来的主要趋势。
 
 我的 www 主页流量有所上升，全年共获得了 48,066 次访问。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213424133be100364e7b8404.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213424133be100364e7b8404.png)
 
 特别是最后几个月，流量有了较大提升。
 
@@ -71,21 +71,21 @@ date: "2023-01-02 14:07:45"
 
 先看一下 blog，
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/20230102134583831c57a4a86f53640.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/20230102134583831c57a4a86f53640.png)
 
 48% 的访客来自搜索引擎，27%来自引用，24%来自直接访问。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213473351631dae73b9b245f.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213473351631dae73b9b245f.png)
 
 趋势方面，来自第三方引用跳转的比例有一个明显提升。
 
 www 主页这边，
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213485020fd9b30cc85416b4.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213485020fd9b30cc85416b4.png)
 
 81% 的访客是直接访问，看来来到主页的访客是占大头的。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213495369a4cf5f6955f246e.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213495369a4cf5f6955f246e.png)
 
 趋势变化上，各个途径的访客数均有提升。
 
@@ -93,45 +93,45 @@ www 主页这边，
 
 先看一下 blog 的，
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213525354bf386a7b9bb7b26.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/2023010213525354bf386a7b9bb7b26.png)
 
 访客来源国家，最多的还是中国。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/202301021352917539720b6e2dc96cc.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/202301021352917539720b6e2dc96cc.png)
 
 这些访客主要分布在中国的北上广深。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/20230102135380880e1a8f46843dc31.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/20230102135380880e1a8f46843dc31.png)
 
 大部份是通过 chrome 进行访问。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/202301021354541c2ec0affaab65384.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/202301021354541c2ec0affaab65384.png)
 
 主要是使用的 winodws 系统进行访问。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/202301021354914ecfc142f760ec4f9.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/202301021354914ecfc142f760ec4f9.png)
 
 移动设备这边则主要是 android。
 
 再来看看主页 www 的。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/20230102135586801f10e7263545a38.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/20230102135586801f10e7263545a38.png)
 
 主要来自中国和俄罗斯，这是我没想到的。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/202301021356703bf4aa68ef24edf4d.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/202301021356703bf4aa68ef24edf4d.png)
 
 主要分布在北山广深和莫斯科。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/20230102135674134aa5c73f4fd152a.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/20230102135674134aa5c73f4fd152a.png)
 
 浏览器方面使用 Safari 较多，难道都是我自己访问的。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/202301021357869eee394c3d217bd54.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/202301021357869eee394c3d217bd54.png)
 
 操作系统主要是 IOS，难道真的都是我自己。
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/202301021357912c233d452dfc0d01a.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/202301021357912c233d452dfc0d01a.png)
 
 移动设备也是 IOS，这难道。。
 
@@ -139,11 +139,11 @@ www 主页这边，
 
 博客 blog 的前十篇热门内容如下：
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/2023010214029643b4e9b0b6d52dbdb.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/2023010214029643b4e9b0b6d52dbdb.png)
 
 主页 www 的前十篇是这些：
 
-!(https://imagehost-cdn.frytea.com/images/2023/01/02/20230102140393697257d550c1824f0.png)
+![](https://imagehost-cdn.frytea.com/images/2023/01/02/20230102140393697257d550c1824f0.png)
 
 ## 总结
 

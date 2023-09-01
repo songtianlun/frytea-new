@@ -29,7 +29,7 @@ date: "2022-12-08 23:45:35"
 
 另一方面，大量新时代工具的出现，如最近的 chatGPT，可以用 AI 帮我们做表格，写文章，甚至写代码，写方案。
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/08/20221208234576358a377b574f6c596.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/08/20221208234576358a377b574f6c596.png)
 
 如此一来，大量重复性工作再也不需要人来做，那些知识面广的精英，更容易利用 AI 提升自己的效率，将自己的注意力用在思考更复杂的问题之上。
 
@@ -45,4 +45,4 @@ date: "2022-12-08 23:45:35"
 
 一切的基础，还是那句，不忘初心。
 
-!(https://imagehost-cdn.frytea.com/images/2022/12/08/202212082345530818eeab3ae75cb69.png)
+![](https://imagehost-cdn.frytea.com/images/2022/12/08/202212082345530818eeab3ae75cb69.png)

@@ -25,7 +25,7 @@ cover:
 
 用法很简单，只需输入您的 Notion Token 即可，保证该 Token 具有访问您 Bullet Journal 页面的权限即可。
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/17/202209171135262948771316714087d.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/17/202209171135262948771316714087d.png)
 
 > 默认会将您的密钥在您当前设备记录一周，放心使用。
 
@@ -36,29 +36,29 @@ cover:
 
 ### 资产总览
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/17/202209171138025bda4a134db5a69a5.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/17/202209171138025bda4a134db5a69a5.png)
 
 ### 资产瀑布图
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/17/2022091711396478e7c82fb841a5cdd.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/17/2022091711396478e7c82fb841a5cdd.png)
 
 ### 预消费趋势图
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/17/202209171140951ecf090996a30b48e.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/17/202209171140951ecf090996a30b48e.png)
 
 ### 消费趋势图
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/17/20220917114164847a2e8166898ae50.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/17/20220917114164847a2e8166898ae50.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/17/20220917114188275da82f76c054e6a.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/17/20220917114188275da82f76c054e6a.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/17/2022091711424214233dab5d559a6a4.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/17/2022091711424214233dab5d559a6a4.png)
 
 ### 投资趋势图
 
 ![https://imagehost-cdn.frytea.com/images/2021/09/10/2021-09-10-12.20.12fbb5284e99462acc.png](https://imagehost-cdn.frytea.com/images/2021/09/10/2021-09-10-12.20.12fbb5284e99462acc.png)
 
-!(https://imagehost-cdn.frytea.com/images/2022/09/17/202209171142647ca6e828fdb9e5aa6.png)
+![](https://imagehost-cdn.frytea.com/images/2022/09/17/202209171142647ca6e828fdb9e5aa6.png)
 
 ## 总结
 

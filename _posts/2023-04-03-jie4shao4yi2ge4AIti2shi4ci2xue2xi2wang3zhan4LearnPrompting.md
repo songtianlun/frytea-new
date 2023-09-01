@@ -21,10 +21,10 @@ categories:
 
 课程将整个 AI 提示词的学习过程分为了基础、进阶、高级应用等多个层次。
 
-!(https://imagehost-cdn.frytea.com/images/2023/04/03/202304032303541b110e8ca56d3aa0.png)
+![](https://imagehost-cdn.frytea.com/images/2023/04/03/202304032303541b110e8ca56d3aa0.png)
 
 每个层次对每个主题的难以程度做了标注：
 
-!(https://imagehost-cdn.frytea.com/images/2023/04/03/20230403230628587b7be0bc5348f6.png)
+![](https://imagehost-cdn.frytea.com/images/2023/04/03/20230403230628587b7be0bc5348f6.png)
 
 总之，这是一份令人印象深刻的 AI 开源教程，内容囊括了 对话、图像生成甚至是利用 AI 帮我们生成邮件和表单，推荐感兴趣的各位了解学习。
